@@ -1,8 +1,3 @@
-Berikut adalah contoh README.md yang profesional dan menarik untuk bot WhatsApp:
-
-
----
-
 🤖 WhatsApp Bot
 
 WhatsApp Bot adalah bot otomatis yang dapat digunakan untuk berbagai keperluan, seperti chatbot, pengingat, otomatisasi tugas, dan lainnya.
